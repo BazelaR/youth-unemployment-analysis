@@ -4,7 +4,6 @@ This project is a simple exploratory data analysis (EDA) of **youth unemployment
 
 The goal of this project is to practice Python-based data analysis while exploring a real social and economic issue that affects young people.
 
----
 
 ## Project Goals
 
@@ -14,7 +13,6 @@ The goal of this project is to practice Python-based data analysis while explori
 - Create a clear visualisation (bar chart)
 - Practice writing insights and communicating findings
 
----
 
 ## Data
 
@@ -37,7 +35,6 @@ In this first version of the project, the analysis focuses on:
 - **Year 2023**
 - **Average number of unemployed youth per province in 2023**
 
----
 
 ## Tools & Technologies
 
@@ -47,7 +44,6 @@ In this first version of the project, the analysis focuses on:
 - Jupyter Notebook / Google Colab  
 - GitHub (for version control and portfolio)
 
----
 
 ## Notebook
 
@@ -65,7 +61,6 @@ This notebook includes:
 6. Visualising the results using a bar chart  
 7. Writing short insights based on the chart
 
----
 
 ## Example Visualisation
 
@@ -73,7 +68,6 @@ This notebook includes:
 
 This gives a quick view of which provinces have the highest and lowest numbers of unemployed youth (in this dataset).
 
----
 
 ## Possible Extensions
 
@@ -84,10 +78,8 @@ Future improvements and ideas:
 - Add **rates** instead of just counts, if population data is available
 - Explore links between youth unemployment and other indicators (education, migration, province-level economic factors)
 
----
 
 ## About Me
 
 This project is part of my journey as an **MSc Data Science student** with a background in **Development Studies and Population Studies**. I am interested in using data and technology to address social and economic challenges affecting young people in South Africa and beyond.
 
----
